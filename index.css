@@ -1,0 +1,68 @@
+.main-box{
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    margin-top: 50px;
+}
+.text{
+    text-align: center;
+    padding: 25px;
+    font-size: 40px;
+    font-family: cursive;
+}
+.text1{
+    text-align: center;
+    padding-bottom: 25px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box-inside{
+    margin-left: 20px;
+    border: 1px solid black;
+    width: 955px;
+    height: 310px;
+}
+.inside-box{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.circle{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    border-radius: 90%;
+}
+.text2{
+    text-align: center;
+    margin: 30px;
+    font-size: 30px;
+    font-family: cursive;
+}
+.text3{
+    margin-top: 30px;
+    text-align: justify;
+    margin-left: 200px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+input{
+    width: 310px;
+}
+label{
+    width: 230px;
+    text-align: end;
+}
+button{
+    width: 180px;
+    background-color: white;
+}
+.button{
+    margin-left: 95px;
+    padding: 15px;
+    font-family:cursive;
+}
+
